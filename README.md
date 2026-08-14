@@ -21,12 +21,11 @@ This project was built to strengthen core front-end fundamentals — DOM manipul
 ## ✨ Features
  
 - 🎨 Clean, responsive 4-button game board (green, red, yellow, blue)
-- 🔊 Authentic sound effects for each button press
 - 🧠 Progressively increasing sequence length for growing difficulty
-- 💡 Visual and audio feedback on every move
+- 💡 Visual  feedback on every move
 - ❌ Game-over animation/indicator on incorrect input
 - 🔁 Instant restart — press any key to start a new game
-- 📱 Fully responsive layout for desktop and mobile
+- 📱 Fully responsive layout for desktop 
 ---
  
 ## 🛠️ Built With
