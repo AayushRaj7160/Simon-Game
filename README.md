@@ -2,11 +2,13 @@
  
 A browser-based recreation of the classic **Simon** memory game — built from scratch using **HTML, CSS, and JavaScript** (no frameworks, no libraries). Test your memory by repeating an ever-growing sequence of colors and sounds.
  
-**[🔗 Live Demo](http://127.0.0.1:5500/index.html)** &nbsp;|&nbsp; **[📂 Source Code](https://github.com/AayushRaj7160/Simon-Game)**
- 
+  **[📂 Source Code](https://github.com/AayushRaj7160/Simon-Game)**
+
 
  
 ---
+
+
  
 ## 📖 About the Project
  
